@@ -2,6 +2,8 @@
   <img src="https://user-images.githubusercontent.com/25080503/65772647-89525700-e132-11e9-80ff-12ad30a25466.png">
 </p>
 
+[![Build Status](https://travis-ci.com/pankajsaini-ldt/dbtvault-snowflakeDemo.svg?branch=master)](https://travis-ci.com/pankajsaini-ldt/dbtvault-snowflakeDemo)
+
 ### dbt models for dbtvault Snowflake Demonstration
 
 This is a downloadable example dbt project using [dbtvault](https://github.com/Datavault-UK/dbtvault) to create a Data Vault 2.0 Data Warehouse
