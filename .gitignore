@@ -1,4 +1,6 @@
 
 target/
-
+venv/
 *.log
+.env
+dbt_modules/
